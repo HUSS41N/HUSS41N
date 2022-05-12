@@ -1,4 +1,4 @@
-# Hello, I am Hussain   ¯\_(ツ)_/¯ 👋
+# Hello, I am Hussain (ツ) 👋
 [![Github](https://img.shields.io/github/followers/HUSS41N?label=Follow&style=social)](https://github.com/HUSS41N)
 ![Profile Count](https://komarev.com/ghpvc/?username=HUSS41N) 
 
