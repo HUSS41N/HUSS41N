@@ -4,7 +4,7 @@
 
 
 <a href="https://github.com/HUSS41N">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HUSS41N&show_icons=true&theme=merko&count_private=true" alt="HUSS41N's github stats" />
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HUSS41N&theme=merko&layout=compact" alt="HUSS41N's github top languages" />
 </a>
 <br/>
