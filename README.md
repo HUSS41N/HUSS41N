@@ -2,19 +2,8 @@
 [![Github](https://img.shields.io/github/followers/HUSS41N?label=Follow&style=social)](https://github.com/HUSS41N)
 ![Profile Count](https://komarev.com/ghpvc/?username=HUSS41N) 
 
-
 <a href="https://github.com/HUSS41N">
- <picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=HUSS41N&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=HUSS41N&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=HUSS41N&show_icons=true" />
-</picture>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HUSS41N&show_icons=true&theme=merko&count_private=true" alt="HUSS41N's github stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HUSS41N&theme=merko&layout=compact" alt="HUSS41N's github top languages" />
 </a>
 <br/>
