@@ -8,11 +8,8 @@
 </a>
 <br/>
 <br/>
-I'm a full stack developer based in Delhi,India with determination for delivering end-to-end solutions. I'm passionate about improving the lives of others through my products and am constantly looking to learn new things everyday.
+Adaptable and result-driven Senior Software Engineer with expertise in React, React Native, Next.js , Nodejs and Python and some of their frameworks. Proven leadership in coordinating cross-functional teams, optimizing backend services, and spearheading full stack development for diverse projects.
 <br/>
-I mostly prefer C++ , Javascript , C# & Python (till now 😊) as Programming Language. 
-I enjoy working with ReactJS, React Native, NextJS, Nodejs, REST API's, Mongodb ,Unity and much more.
-
 ## Find me around the web 🌎:
 - Connect me on <a href="https://www.linkedin.com/in/md-hussain-baa178136/">LinkedIn</a> 💼
 - You can Contact me: hussainakhtar1111@gmail.com 📫
