@@ -8,7 +8,7 @@
 </a>
 <br/>
 <br/>
-Adaptable and result-driven Senior Software Engineer with expertise in React, React Native, Next.js , Nodejs and Python and some of their frameworks. Proven leadership in coordinating cross-functional teams, optimizing backend services, and spearheading full stack development for diverse projects.
+Adaptable and result-driven Senior Software Engineer with expertise in Javascript, Typescript, C/C++ and Python and some of their frameworks. Proven leadership in coordinating cross-functional teams, optimizing backend services, and spearheading full stack development for diverse projects.
 <br/>
 ## Find me around the web 🌎:
 - Connect me on <a href="https://www.linkedin.com/in/md-hussain-baa178136/">LinkedIn</a> 💼
