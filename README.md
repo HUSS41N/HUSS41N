@@ -1,22 +1,68 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img src="assets/header-light.svg" alt="Md Hussain, Senior AI Product Engineer: voice AI and agentic systems" width="100%">
+  <img src="assets/header-light.svg" alt="Md Hussain: GenAI, agentic and conversational AI across text, voice and real-time" width="100%">
 </picture>
 
-I build voice and agentic AI that people talk to every day. Bengaluru 🇮🇳
+I build **GenAI and agentic systems** that people actually talk to: conversational AI over text and voice, real-time and event-driven pipelines, multi-agent workflows, and the evals, routing and infrastructure that keep them fast, reliable and affordable in production. Bengaluru 🇮🇳
 
 [hussnakhtr.com](https://hussnakhtr.com) · [LinkedIn](https://www.linkedin.com/in/md-hussain-baa178136/) · [Email](mailto:hussainakhtar1111@gmail.com)
 
-### 💬 Ask me anything
+### Talk to me 👇
+<sub>Tap a question. My AI twin answers right here, live.</sub>
 
-Ask a question right here on GitHub. My AI twin replies in about a minute, and the conversation shows up below.
+<details>
+<summary><b>💬 What do you build?</b></summary>
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.hussnakhtr.com/api/readme-chat?q=build&theme=dark">
+  <img src="https://www.hussnakhtr.com/api/readme-chat?q=build&theme=light" alt="What do you build?" width="100%">
+</picture>
+</details>
 
-**[✍️ Ask your own](https://github.com/HUSS41N/HUSS41N/issues/new?template=ask.yml&title=Ask%3A%20)** · [What do you work on?](https://github.com/HUSS41N/HUSS41N/issues/new?template=ask.yml&title=Ask%3A%20What%20do%20you%20work%20on%3F&question=What%20do%20you%20work%20on%3F) · [Open to new roles?](https://github.com/HUSS41N/HUSS41N/issues/new?template=ask.yml&title=Ask%3A%20Are%20you%20open%20to%20new%20roles%3F&question=Are%20you%20open%20to%20new%20roles%3F) · [What's your stack?](https://github.com/HUSS41N/HUSS41N/issues/new?template=ask.yml&title=Ask%3A%20What%27s%20your%20stack%3F&question=What%27s%20your%20stack%3F)
+<details>
+<summary><b>🤖 Have you shipped agents to production?</b></summary>
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.hussnakhtr.com/api/readme-chat?q=agents&theme=dark">
+  <img src="https://www.hussnakhtr.com/api/readme-chat?q=agents&theme=light" alt="Have you shipped agents to production?" width="100%">
+</picture>
+</details>
 
-<!-- CHAT:START -->
-<!-- msg -->
-> **🤖 AI Hussain** · No questions yet. Be the first to ask.
-<!-- CHAT:END -->
+<details>
+<summary><b>🎙️ What kind of voice AI do you work on?</b></summary>
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.hussnakhtr.com/api/readme-chat?q=voice&theme=dark">
+  <img src="https://www.hussnakhtr.com/api/readme-chat?q=voice&theme=light" alt="What kind of voice AI do you work on?" width="100%">
+</picture>
+</details>
+
+<details>
+<summary><b>🧰 What's your stack?</b></summary>
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.hussnakhtr.com/api/readme-chat?q=stack&theme=dark">
+  <img src="https://www.hussnakhtr.com/api/readme-chat?q=stack&theme=light" alt="What's your stack?" width="100%">
+</picture>
+</details>
+
+<details>
+<summary><b>✨ Why should I hire you?</b></summary>
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.hussnakhtr.com/api/readme-chat?q=hire&theme=dark">
+  <img src="https://www.hussnakhtr.com/api/readme-chat?q=hire&theme=light" alt="Why should I hire you?" width="100%">
+</picture>
+</details>
+
+<details>
+<summary><b>📬 Are you open to new roles?</b></summary>
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.hussnakhtr.com/api/readme-chat?q=roles&theme=dark">
+  <img src="https://www.hussnakhtr.com/api/readme-chat?q=roles&theme=light" alt="Are you open to new roles?" width="100%">
+</picture>
+</details>
 
 <p>
   <img src="https://cultofthepartyparrot.com/parrots/hd/partyparrot.gif" width="28" height="28" alt="party parrot"/>
