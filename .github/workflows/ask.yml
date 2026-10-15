@@ -1,0 +1,47 @@
+name: Ask Hussain
+
+# A visitor opens an "Ask:" issue → Claude answers as Hussain's AI twin → the reply
+# lands on the issue and in the README chat.
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: ask-readme      # one answer at a time, so README commits never collide
+  cancel-in-progress: false
+
+jobs:
+  answer:
+    if: startsWith(github.event.issue.title, 'Ask') || contains(github.event.issue.labels.*.name, 'ask')
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install
+        working-directory: .github/scripts
+        run: npm install --no-audit --no-fund
+
+      - name: Answer
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: node .github/scripts/ask.mjs
+
+      - name: Update the README chat
+        run: |
+          if git diff --quiet README.md; then exit 0; fi
+          git config user.name "AI Hussain"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chat: answer @${{ github.event.issue.user.login }}"
+          git pull --rebase --autostash
+          git push

@@ -1,0 +1,16 @@
+name: 💬 Ask Hussain
+description: Ask my AI twin anything. It answers here in about a minute.
+title: "Ask: "
+labels: ["ask"]
+body:
+  - type: textarea
+    id: question
+    attributes:
+      label: Your question
+      description: One question, in plain words. The answer appears as a comment here and in the chat on my profile.
+      placeholder: What are you working on right now?
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: "_Answers come from an AI twin of Hussain and can be wrong. Questions and answers are public._"
